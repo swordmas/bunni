@@ -1,0 +1,372 @@
+@charset "UTF-8";
+
+/* CSS style for portfolio site 2013, go nuts */
+
+@import url(http://fonts.googleapis.com/css?family=Aldrich);
+
+body {
+	
+	
+	background: url(../images/background_1_v2.jpg);
+	color: #333;
+	
+	font-family: 'Aldrich', helvetica, sans-serif;
+	
+	height: 750px;
+	
+	padding-top: 50px;
+	
+	box-shadow: #000 0px 0px 100px 15px inset;
+		
+	
+}
+
+#container {
+	
+	/*margin: 45px auto 0 auto;*/
+	
+	
+	width:1000px;
+	
+	height: 700px; /* get rid of this after declaring a height */ 
+	
+	border: #CCC 3px solid;
+	
+	background: #000;
+	
+	box-shadow: 0px 0px 80px 1px #000;
+	
+	margin:auto;
+}
+
+
+#main_logo {
+	
+	
+	float:left;
+	
+	margin-left: 30px;
+	
+	
+	width: 200px;
+	height: 85px;
+	
+	background: url(../images/main_logo.png) no-repeat;	
+	
+}
+
+
+#nav_bar {
+	
+	font-size: 14px;
+	
+
+	width: 1000px;
+	height: 80px;
+	background: #ededed;
+	
+	/*box-shadow: 0px -30px 100px 5px inset;*/
+		
+	
+}
+
+a  {
+	
+	color: #333;
+	
+}
+
+#viewport {
+	
+	width:1000px;
+	height: 615px;
+	
+	background:url(../images/portfolio_background.png) no-repeat;	
+	
+	overflow:auto;
+	
+}
+
+#img_gallery {
+	
+	clear:both;
+	
+	width:715px;
+	
+	position: relative;
+	
+	top: 50px;
+	
+	margin: 0 auto 0 auto;
+	
+	border: #cfcfcf 3px solid;
+	
+}
+
+.i_indent {
+	
+	border: 5px #CCC solid;
+	margin: 5px;	
+	
+}
+
+#main_col {
+	
+		
+	
+}
+
+
+#home {
+	
+	float: left;
+	
+	width: 130px;
+	height: 80px;
+
+	
+}
+
+#home:hover {
+	
+	
+	background: #999;
+	
+	/*box-shadow: 0px 5px 1px 2px inset;*/
+	
+}
+
+#bar {
+	
+	
+	text-align: center;
+	
+	margin-left: 260px;
+	
+	
+	line-height: 85px;
+	
+	
+}
+
+.active {
+	
+
+	background: #bbb;
+	
+}
+
+#footer {
+	
+	font-size: 12px;
+	
+	margin-top: 10px;
+	
+	text-align:center;
+	
+	color: #999;	
+	
+}
+
+#cmail {
+
+	color:#999;
+	
+}
+
+#cmail:hover {
+	
+	color:#eee;	
+	
+}
+
+
+
+#welcome {
+	
+	margin-top: 100px;
+	
+	color:#efefef;
+	
+	font-size: 24px;
+	
+	text-indent: 320px;	
+	
+}
+
+#w_sen {
+	
+	margin-top: 140px;
+	
+	color:#efefef;
+	
+	font-size: 20px;
+	
+	text-indent: 320px;	
+	
+}
+
+#w_sentence {
+	
+	
+	position: relative;
+	
+	top:185px;
+	
+	color:#efefef;
+	
+	font-size: 18px;
+	
+	text-indent: 320px;	
+		
+	
+}
+
+
+#a {
+	
+	margin-top: 300px;
+	
+	text-align: center;
+	
+	font-size: 18px;
+	
+	color: #CCC;	
+	
+	
+}
+
+#re {
+	display:block;
+	
+	margin-left: auto;
+	margin-right: auto;
+	
+	width: 38px;
+	height: 38px;
+	
+	background: url(../images/redirect.gif) no-repeat;	
+	
+}
+
+#social_icons {
+	
+	margin: 210px 0 0 340px;
+	
+	
+}
+
+.icon_group {
+	
+	float:left;
+	
+	margin-left: 15px;	
+	
+}
+
+#icon_fb {
+	
+	border-radius:3px;
+	
+	width:60px;
+	height:60px;
+	
+	background:url(../images/fb_icon.png) no-repeat;
+	
+}
+
+#icon_fb:hover {
+	
+
+	
+	background:url(../images/fb_icon_hover.png) no-repeat;
+	
+}
+
+#icon_tw {
+	
+	border-radius: 3p;
+	
+	width:60px;
+	height:60px;
+	
+	background:url(../images/tw_icon.png) no-repeat;
+	
+}
+
+#icon_tw:hover {
+	
+	background:url(../images/tw_icon_hover.png) no-repeat;
+	
+}
+
+#icon_li {
+	
+	border-radius:6px;
+	
+	
+	margin-top: 6px;
+	
+	width:95px;
+	height:25px;
+	
+	background:url(../images/li_icon.jpg) no-repeat;
+	
+}
+
+#icon_li:hover {
+	
+	
+	background:url(../images/li_icon_hover.jpg) no-repeat;
+	
+}
+
+#c_header {
+	
+	margin-top: 90px;
+	
+	color:#efefef;
+	
+	font-size: 20px;
+	
+	text-indent: 550px;	
+	
+}
+
+#w_sentence2 {
+
+	margin: 120px auto 0 550px;
+	
+	width: 380px;
+	
+	color:#efefef;
+	
+	font-size: 14px;
+	
+	text-indent: 20px;
+	line-height: 25px;
+	
+	
+}
+
+#site_pic {
+	
+	background: url(../images/Snow_hunter.png) no-repeat;
+	
+	width: 270px;
+	height: 270px;
+	
+	margin: 105px 0 0 120px;	
+	
+}
+
+#resume {
+	
+	margin: auto;
+
+	background:url(../images/resume.jpg) no-repeat;
+	
+	width: 700px;
+	height: 906px;	
+	
+}
