@@ -17,20 +17,20 @@
         <meta name="keywords" content="Chen Chen, illustrations, art, Chen illustrations, San Francisco, Bay Area"/>
         
         <link rel="icon" type="image/png" href="images/favi.png" />
-		<link rel="x-icon" type="image/ong" href="images/favi.png" />
+	<link rel="x-icon" type="image/ong" href="images/favi.png" />
 
-		<title>Chen's Illustrations - Portfolio</title>
+	<title>Chen's Illustrations - Portfolio</title>
         <link rel="stylesheet" href="/css/chen.css" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         
         
 
         <link rel="stylesheet" type="text/css" href="styles/reset.css" />
-<link rel="stylesheet" type="text/css" href="styles/styles.css" />
+	<link rel="stylesheet" type="text/css" href="styles/styles.css" />
         
         <script src="js/jquery-1.10.2.min.js"></script>
-<script src="js/lightbox-2.6.min.js"></script>
+	<script src="js/lightbox-2.6.min.js"></script>
         <link href="css/lightbox.css" rel="stylesheet" />
         <link rel="stylesheet" href="css/jquery.parallax.css" />
         
@@ -49,9 +49,17 @@
                 	<div id="viewport" >
                     
                     	<div id="img_gallery">
-                        
-                        	<a href="images/TNY_Thanksgiving_smaller.jpg" data-lightbox="image_1" title="The New Yorker Thanksgiving"><img src="images/t-1.jpg" class="i_indent" /></a>
-            				<a href="images/wrath_v_temp.jpg" data-lightbox="image_1" title="wrath versus temperance" ><img src="images/t-2.jpg" class="i_indent" /></a>
+                            
+                            <a href="images/t1.jpg" data-lightbox="image_1" title="NanoRobotics"><img src="images/thesis1.jpg" class="i_indent" /></a>
+                            <a href="images/t2.jpg" data-lightbox="image_1" title="The All Consuming"><img src="images/thesis2.jpg" class="i_indent" /></a>
+                            <a href="images/t3.jpg" data-lightbox="image_1" title="Transhuman tError"><img src="images/thesis3.jpg" class="i_indent" /></a>
+                            <a href="images/t4.jpg" data-lightbox="image_1" title="Day at the Park with Bionic Legs"><img src="images/thesis4.jpg" class="i_indent" /></a>
+                            <a href="images/t5.jpg" data-lightbox="image_1" title="Anti-Humanism"><img src="images/thesis5.jpg" class="i_indent" /></a>
+                            <a href="images/t6.jpg" data-lightbox="image_1" title="A Helper in the Downpour"><img src="images/thesis6.jpg" class="i_indent" /></a>
+                            <a href="images/t7.jpg" data-lightbox="image_1" title="Chimeras"><img src="images/thesis7.jpg" class="i_indent" /></a>
+                            <a href="images/t8.jpg" data-lightbox="image_1" title="Elephant Man"><img src="images/thesis8.jpg" class="i_indent" /></a>
+                            <a href="images/TNY_Thanksgiving_smaller.jpg" data-lightbox="image_1" title="The New Yorker Thanksgiving"><img src="images/t-1.jpg" class="i_indent" /></a>
+            		    <a href="images/wrath_v_temp.jpg" data-lightbox="image_1" title="wrath versus temperance" ><img src="images/t-2.jpg" class="i_indent" /></a>
                             <a href="images/dune.jpg" data-lightbox="image_1" title="Dune" ><img src="images/t-6.jpg" class="i_indent" /></a>
                             <a href="images/Temperance.jpg" data-lightbox="image_1" title="Temperance Mech Concept" ><img src="images/t-4.jpg" class="i_indent" /></a>
                             <a href="images/esqu.jpg" data-lightbox="image_1" title="Esquisite Corpse" ><img src="images/t-3.jpg" class="i_indent" /></a>
