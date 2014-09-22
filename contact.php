@@ -99,6 +99,10 @@
         
     </body>
     
+<script>
+var a = document.getElementById('nav_contact').firstChild;
+a.className = a.className + " active";
+</script>              
     
 </html>
 

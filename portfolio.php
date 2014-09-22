@@ -78,6 +78,10 @@
 					?> 
                     
     </body>
+<script>
+var a = document.getElementById('nav_portfolio').firstChild;
+a.className = a.className + " active";
+</script>              
     
     
 </html>

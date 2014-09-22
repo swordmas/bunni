@@ -51,6 +51,10 @@
 					?> 
                     
     </body>
+<script>
+var a = document.getElementById('nav_resume').firstChild;
+a.className = a.className + " active";
+</script>              
     
     
 </html>
