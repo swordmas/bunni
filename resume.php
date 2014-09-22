@@ -20,13 +20,9 @@
 		<link rel="x-icon" type="image/ong" href="images/favi.png" />
 
 		<title>Chen's Illustrations - Resume</title>
-        
-        <?php 
-			
-			include("includes/styles.inc") 
-		
-		?>  
-        
+        <link rel="stylesheet" type="text/css" href="styles/reset.css" />
+<link rel="stylesheet" type="text/css" href="styles/styles.css" />
+        <link rel="stylesheet" href="/css/chen.css" />
 
 	</head>
 

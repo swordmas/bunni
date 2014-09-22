@@ -20,13 +20,21 @@
 		<link rel="x-icon" type="image/ong" href="images/favi.png" />
 
 		<title>Chen's Illustrations - Portfolio</title>
+        <link rel="stylesheet" href="/css/chen.css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         
-        <?php 
-			
-			include("includes/styles.inc") 
-		
-		?>  
-              
+        
+
+        <link rel="stylesheet" type="text/css" href="styles/reset.css" />
+<link rel="stylesheet" type="text/css" href="styles/styles.css" />
+        
+        <script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/lightbox-2.6.min.js"></script>
+        <link href="css/lightbox.css" rel="stylesheet" />
+        <link rel="stylesheet" href="css/jquery.parallax.css" />
+        
+        <!-- Styles specific for parallax viewport, (view per page unconfined within css for ironically, convinence)-->
         
 	</head>
 

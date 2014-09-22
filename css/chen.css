@@ -1,0 +1,16 @@
+.parallax-viewport {
+  
+  clear:both;
+  width: 1000px;
+  
+  height: 615px;
+  background-color: #000;  
+}
+
+.diagram {
+  margin-top: -0.75em;
+}
+
+small {
+text-transform: uppercase;
+}

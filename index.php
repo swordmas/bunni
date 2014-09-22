@@ -26,25 +26,7 @@
         <link rel="stylesheet" href="css/jquery.parallax.css" />
         
         <!-- Styles specific for parallax viewport, (view per page unconfined within css for ironically, convinence)-->
-        
-        <style type="text/css" media="screen, projection">
-		.parallax-viewport {
-			  
-		  clear:both;
-		  width: 1000px;
-			  
-		  height: 615px;
-		  background-color: #000;			  
-		}
-			
-		.diagram {
-		  margin-top: -0.75em;
-		}
-			
-		small {
-		text-transform: uppercase;
-		}
-		</style>
+        <link rel="stylesheet" href="/css/chen.css" />
         </head>
 
     <body>    
