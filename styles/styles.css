@@ -117,7 +117,7 @@ a  {
 }
 
 
-#home {
+.home {
 	
 	float: left;
 	
@@ -127,7 +127,7 @@ a  {
 	
 }
 
-#home:hover {
+.home:hover {
 	
 	
 	background: #999;
@@ -136,7 +136,7 @@ a  {
 	
 }
 
-#bar {
+.bar {
 	
 	
 	text-align: center;
