@@ -3,7 +3,7 @@
                 <div id="nav_bar"><!-- navigation bar -->                
                     <!-- probably not optimized code but it'll do -->
                         <div id="bar" class="n_bar1">
-                            <a href="index.php"><h3 id="home">HOME</h3></a> 
+                            <a href="index.php"><h3 id="home" class="active">HOME</h3></a> 
                         </div><!-- end bar1 -->
                         <div id="bar" class="n_bar2">
                             <a href="portfolio.php"><h3 id="home">PORTFOLIO</h3></a>
