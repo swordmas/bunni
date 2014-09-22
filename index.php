@@ -102,7 +102,10 @@
 		 include("includes/footer.inc") 
 		 
 		 ?> 
-              
+<script>
+var a = document.getElementById('nav_index').firstChild;
+a.className = a.className + " active";
+</script>              
     </body>
     
     
