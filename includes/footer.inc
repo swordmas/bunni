@@ -18,7 +18,7 @@
            		
       	<div id="footer"><!-- footer -->
                 
-        	<p class="footy">|| All images Copyright &copy; Chen Chen 2013 || Contact me at: <a href="mailto:chen@chen2illustrations.com" title="chen chen illustrations" id="cmail">chen@chen2illustrations.com</a></p>
+        	<p class="footy">|| All images Copyright &copy; Chen Chen 2013-2014 || Contact me at: <a href="mailto:chenchen.illustrations@gmail.com" title="chen chen illustrations" id="cmail">chenchen.illustrations@gmail.com</a></p>
                 
         </div> <!-- end footer --> 
       
