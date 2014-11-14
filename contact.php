@@ -14,7 +14,7 @@
         
         <meta name="description" content="Chen Chen's Contact" />
         
-        <meta name="keywords" content="Chen Chen, illustrations, art, Chen illustrations, San Francisco, Bay Area"/>
+        <meta name="keywords" content="illustrations, art, Chen Chen, Chen illustrations, San Francisco, Bay Area"/>
         
         <link rel="icon" type="image/png" href="images/favi.png" />
         <link rel="x-icon" type="image/ong" href="images/favi.png" />
@@ -81,7 +81,7 @@
                                
                             <div class="parallax-layer" style="width:1120px; height:605px;">
                             
-                                <h4 id="w_sentence2">My name is Chen Chen, I'm an illustrator currently residing within the beautiful Silicon Valley. I've obtained a BFA at California College of the Art or CCA for short. I have a tendancy to draw (all) things with extreme precision and mechanical detail, I also love to draw robots. For questions, inquiries, COMMISSIONS and such <br />Please email me at: <a href="mailto:chen@chen2illustrations.com" title="chen chen illustrations" id="cmail">chen@chen2illustrations.com</a> <br />  ---------------------------------------------------------------<br /> Facebook: <a href="https://www.facebook.com/cchenart" title="chen chen illustrations facebook page" id="cmail">https://www.facebook.com/cchenart</a><br /> Twitter: <a href="https://twitter.com/cchensquared" title="chen chen twitter" id="cmail">https://twitter.com/cchensquared</a> <br /> Linkedin: <a href="http://www.linkedin.com/profile/view?id=130302830" title="chen chen linkedin page" id="cmail">http://www.linkedin.com/profile/view?id=130302830</a> <br /> Pinterest: <a href="http://www.pinterest.com/swordmas" title="chen chen's pinterest" id="cmail">http://www.pinterest.com/swordmas/</a> <br /> 777 San Antonio Rd Apt#79 Palo Alto, CA 94303</h4> <br />
+                                <h4 id="w_sentence2">My name is Chen Chen, I'm an illustrator currently residing within the beautiful and wonderfully creative Silicon Valley. I graduated and acquired a BFA at California College of the Arts. I have a tendancy to draw (all) things with extreme precision and mechanical detail, I also love to draw robots. For questions, inquiries, COMMISSIONS and such <br />Please email me at: <a href="mailto:chenchen.illustrations@gmail.com" title="chen chen illustrations" id="cmail">chenchen.illustrations@gmail.com</a> <br />  ---------------------------------------------------------------<br /> Facebook: <a href="https://www.facebook.com/cchenart" title="chen chen illustrations facebook page" id="cmail">https://www.facebook.com/cchenart</a><br /> Twitter: <a href="https://twitter.com/cchensquared" title="chen chen twitter" id="cmail">https://twitter.com/cchensquared</a> <br /> Linkedin: <a href="http://www.linkedin.com/profile/view?id=130302830" title="chen chen linkedin page" id="cmail">http://www.linkedin.com/profile/view?id=130302830</a> <br /> Pinterest: <a href="http://www.pinterest.com/swordmas" title="chen chen's pinterest" id="cmail">http://www.pinterest.com/swordmas/</a>
                                 
                                 
                                 
