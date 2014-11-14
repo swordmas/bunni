@@ -5,8 +5,8 @@
         <meta charset="utf-8" />
         <meta name="author" content="Chen Chen" />
         
-        <meta name="description" content="Chen Chen is an Illustrator, avid gamer, lover of robots, nerd and asian currently residing in the good ole' Silicon Valley." />
-        <meta name="keywords" content="Chen Chen, illustrations, art, Chen illustrations, San Francisco, Bay Area"/>
+        <meta name="description" content="Chen Chen is an Illustrator, avid gamer, lover of robots and asian currently residing in the beautiful wonderfully creative Silicon Valley." />
+        <meta name="keywords" content="illustrations, art, Chen Chen, Chen illustrations, San Francisco, Bay Area"/>
         
         <link rel="icon" type="image/png" href="images/favi.png" />
         <link rel="x-icon" type="image/ong" href="images/favi.png" />
@@ -77,7 +77,7 @@
                           
                           <h4 id="w_sentence">For questions, inquiries, COMMISSIONS and such</h4> <br />
                           
-                          <h4 id="w_sentence"> Email me at: <a href="mailto:chen@chen2illustrations.com" title="chen chen illustrations" id="cmail">chen@chen2illustrations.com</a></h4> <br />
+                          <h4 id="w_sentence"> Email me at: <a href="mailto:chenchen.illustrations@gmail.com" title="chen chen illustrations" id="cmail">chenchen.illustrations@gmail.com</a></h4> <br />
                           
                           <h4 id="w_sentence">Thank you!</h4>
                           
