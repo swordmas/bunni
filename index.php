@@ -79,7 +79,7 @@
                           
                           <h4 id="w_sentence"> Email me at: <a href="mailto:chenchen.illustrations@gmail.com" title="chen chen illustrations" id="cmail">chenchen.illustrations@gmail.com</a></h4> <br />
                           
-                          <h4 id="w_sentence">Check out my Wordpress blog at: <a href="http://chenillustrations.wordpress.com/">chenillustrations.wordpress.com</a></h4>
+                         <!-- <h4 id="w_sentence">Check out my Wordpress blog at: <a href="http://chenillustrations.wordpress.com/">chenillustrations.wordpress.com</a></h4> -->
                           
                           <h4 id="w_sentence">Thank you!</h4>
                           
